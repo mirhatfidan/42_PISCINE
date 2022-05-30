@@ -1,0 +1,5 @@
+Credentials cache: API:FF167DFC-A8AC-451F-B2C5-95DB24660CFA
+        Principal: shopa@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Sep 29 11:21:56 2021  Sep 29 21:21:47 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
