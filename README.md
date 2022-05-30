@@ -1,1 +1,1 @@
-#  42_PISCINE
+# 42_PISCINE
